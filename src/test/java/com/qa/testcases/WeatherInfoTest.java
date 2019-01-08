@@ -52,4 +52,9 @@ public class WeatherInfoTest {
 		
 		
 	}
+	
+	@Test
+	public void sampleTestforGit(){
+		System.out.println("This test is a sample test for Git");
+	}
 }
